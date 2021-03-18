@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(139, 137, 137);
+  }
+  
+  #title{
+      text-align: center;
+      font-style: italic;
+      font-family: "Helvetica";
+    }
+  
+    #About-Me{
+      background-color: rgb(139, 137, 137);
+    }
+  
+    #Professional-Background{
+      background-color: rgb(139, 137, 137);
+    }
+  
+    #Tech-Experience{
+      background-color: rgb(139, 137, 137);
+    }
+  
+    #Contact{
+      background-color: rgb(139, 137, 137);
+    }
+    
+    .body{
+      font-size: 18px;
+    }
+    
+    h2{
+      font-size: 40px;
+      margin-left: 4%;
+      margin-bottom: 1px;
+    }
+  
+    /* Make sure to keep in mind the accessibility of other users */
+    /* When choosing colors, make sure that the contrast between the two colors are big
+    enough so color-blind users are still able to read the page */
